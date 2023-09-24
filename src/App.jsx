@@ -6,7 +6,7 @@ function App() {
   return (
     <div>
       {/* <ChangeBg /> */}
-      <PassGenerator />
+      {/* <PassGenerator /> */}
     </div>
   )
 }
