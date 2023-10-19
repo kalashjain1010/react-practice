@@ -8,7 +8,7 @@ function App() {
       <ChangeBg />
       <PassGenerator />
    dsa
-    </div>fs
+    </div>
   )
 }
 
