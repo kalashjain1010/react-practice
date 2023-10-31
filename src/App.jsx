@@ -6,7 +6,7 @@ function App() {
   return (
     <div>
       <ChangeBg />
-      <PassGenedasrator />
+      <PassGenerator />
    
     </div>
   )
