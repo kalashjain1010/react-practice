@@ -22,7 +22,7 @@ function ChangeBg() {
       </div>
 
     </div>
-  )dassda
+  )
 }
 
 export default ChangeBg
