@@ -16,7 +16,7 @@ function ChangeBg() {
         <button  onClick={()=> setColor("pink") } className='p-5  mx-2 outline-none rounded-xl bg-pink-500 text-white'>pink</button>
 
         <button onClick={()=> setColor("orange") } className='p-5 mx-2  outline-none rounded-xl bg-orange-500 text-white'>olive</button>
-        ads
+        
         </div>
       </div>
       </div>
