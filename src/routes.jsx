@@ -13,7 +13,7 @@ function Routers() {
           <Route index element={<HomePage />} />
           <Route path="signup" element={<SIgnUp />} />
           <Route path="login" element={<SignIn />} />
-          <Route path="/*" element={<HomePage />} />
+          <Route path="*" element={<HomePage />} />
         </Routes>
       </Layout>
     </div>
