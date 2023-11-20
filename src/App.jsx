@@ -5,7 +5,7 @@ import PassGenerator from './compoenet/PassGenerator'
 function App() {
   return (
     <div>
-      {/* <ChangeBg /> */}
+      <ChangeBg />
       <PassGenerator />
     </div>
   )
