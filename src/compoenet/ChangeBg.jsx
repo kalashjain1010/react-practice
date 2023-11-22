@@ -19,7 +19,7 @@ function ChangeBg() {
         
         </div>
 
-        asdasddsafds
+        
       </div>
       </div>
 
